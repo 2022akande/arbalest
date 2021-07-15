@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arbalest/static/css/main.b5d73234.chunk.css",
+    "main.js": "/arbalest/static/js/main.9a4de9bf.chunk.js",
+    "main.js.map": "/arbalest/static/js/main.9a4de9bf.chunk.js.map",
+    "runtime-main.js": "/arbalest/static/js/runtime-main.53cc6561.js",
+    "runtime-main.js.map": "/arbalest/static/js/runtime-main.53cc6561.js.map",
+    "static/js/2.c2d986c0.chunk.js": "/arbalest/static/js/2.c2d986c0.chunk.js",
+    "static/js/2.c2d986c0.chunk.js.map": "/arbalest/static/js/2.c2d986c0.chunk.js.map",
+    "static/js/3.25b23c59.chunk.js": "/arbalest/static/js/3.25b23c59.chunk.js",
+    "static/js/3.25b23c59.chunk.js.map": "/arbalest/static/js/3.25b23c59.chunk.js.map",
+    "index.html": "/arbalest/index.html",
+    "static/css/main.b5d73234.chunk.css.map": "/arbalest/static/css/main.b5d73234.chunk.css.map",
+    "static/js/2.c2d986c0.chunk.js.LICENSE.txt": "/arbalest/static/js/2.c2d986c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53cc6561.js",
+    "static/js/2.c2d986c0.chunk.js",
+    "static/css/main.b5d73234.chunk.css",
+    "static/js/main.9a4de9bf.chunk.js"
+  ]
+}
